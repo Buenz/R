@@ -1,7 +1,7 @@
 
 library(dplyr);library(lubridate);library(stringr);
 
-setwd("G:/CAP-Team/Domestic Team/Harrison/Data_Downloads2/RR_Jobs")
+setwd("working Directory")
 RR=read.delim("JOB003147.txt", header = F)
 
 
